@@ -73,13 +73,18 @@
 
 .hero__body {
   margin-top: 0;
-  margin-bottom: 1rem;
+  margin-bottom: 3rem;
   font-size: 1.2em;
 
   > *:first-child {
     margin-top: 0;
   }
+
+  @media (min-width: 1024px) {
+    margin-bottom: 1rem;
+  }
 }
+
 
 .list-header {
   display: flex;
