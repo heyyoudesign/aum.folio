@@ -3,9 +3,9 @@ title: Chi è Adriano?
 subtitle: ""
 metaDescription: Sono Adriano Urso, un appassionato di digitale con anni di esperienza nel mondo tecnologico. 
 date: 2024-12-31T00:00:00.000Z
-permalink: /chi-sono/index.html
+permalink: /about/index.html
 eleventyNavigation:
-  key: Chi sono
+  key: About
   order: 1
 ---
 
