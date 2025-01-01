@@ -33,7 +33,12 @@ section: home
     <a class="btn btn--outline btn--sm" href="/esperienze">Altre?</a>
   </div>
   {% from "macros/projectlist.njk" import projectlist %}
-  {{ projectlist(projects = collections.project | reverse) }}
+    {{ projectlist(
+    projects = collections.project | reverse, 
+    limitprj = 4
+    ) }}
+    
+    
 
   {# Articles #}
   <!--
@@ -45,7 +50,7 @@ section: home
   {{ articlelist(
     articles = collections.post | reverse,
     show_tags = false,
-    limit = 3
+    limit = 1
   ) }}
   -->
 </div>
