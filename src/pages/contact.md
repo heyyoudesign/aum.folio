@@ -1,19 +1,15 @@
 ---
-section: contact
+section: contatti
 layout: contact.njk
-title: Get in touch
-date: 2018-01-01
-permalink: /contact/index.html
-metaDescription: This is a sample meta description. If one is not present in
-  your page/post's front matter, the default metadata.desciption will be used
-  instead.
-subtitle: Contact Subtitle
+title: Rimaniamo in contatto!
+date: 2024-12-31
+permalink: /contatti/index.html
+metaDescription: Scrivimi per progetti che riguardano l'accessibilità oppure il digital marketing.
+subtitle: Puoi scrivermi tramite il form oppure ai contatti seguenti
 eleventyNavigation:
-  key: Contact
+  key: Contatti
   order: 4
 ---
 
-The contact form on this page uses [Netlify Forms](https://www.netlify.com/docs/form-handling/) to process submissions,
-and saves them in the connected Netlify account where notifications can
-optionally be configured. Each submission is passed through a spam filter and
-if flagged, will display a CAPTCHA challenge to the user.
+Questo form di contatto usa [Netlify Forms](https://www.netlify.com/docs/form-handling/) per inviarmi le informazioni,
+le salva sull'acocunt Netlify collegato dal quale mi arriveranno delle notifiche. Ogni form inviato passerà prima attraverso un filtro anti-spam, e se dovesse risultare a rischio, verrà mostrato un CAPTCHA in pagina.

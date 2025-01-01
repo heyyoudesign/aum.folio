@@ -26,16 +26,16 @@ section: home
 
   {# Projects #}
   <div class="list-header">
-    <h2 class="list-header__title">Projects</h2>
-    <a class="btn btn--outline btn--sm" href="/projects">View All</a>
+    <h2 class="list-header__title">Esperienze</h2>
+    <a class="btn btn--outline btn--sm" href="/projects">Altre?</a>
   </div>
   {% from "macros/projectlist.njk" import projectlist %}
   {{ projectlist(projects = collections.project | reverse) }}
 
   {# Articles #}
   <div class="list-header">
-    <h2 class="list-header__title">Articles</h2>
-    <a class="btn btn--outline btn--sm" href="/blog">View All</a>
+    <h2 class="list-header__title">Ultimi post</h2>
+    <a class="btn btn--outline btn--sm" href="/blog">Vai agli altri post</a>
   </div>
   {% from "macros/articlelist.njk" import articlelist %}
   {{ articlelist(

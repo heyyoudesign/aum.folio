@@ -1,31 +1,46 @@
 ---
-title: About Me
+title: Chi è Adriano?
 subtitle: ""
-metaDescription: This page is all about me
-date: 2017-01-01T00:00:00.000Z
-permalink: /about/index.html
+metaDescription: Sono Adriano Urso, un appassionato di digitale con anni di esperienza nel mondo tecnologico. 
+date: 2024-12-31T00:00:00.000Z
+permalink: /chi-sono/index.html
 eleventyNavigation:
-  key: About
+  key: Chi sono
   order: 1
 ---
 
-### What is Fernfolio?
-An [Eleventy](https://www.11ty.io/) theme designed to simplify the process of creating a beautiful portfolio and blog. Tightly integrated with [Netlify CMS](https://www.netlifycms.org/) for flexible, Git-powered content management.
+Ciao a tuttə! Sono un appassionato di digitale, accessibilità e facilitazione.
 
-### Why create this?
+**Profilo:** 
+Mi dedico a costruire relazioni solide e a facilitare team con empatia, mirando all'innovazione. Mi interessa sviluppare un ambiente professionale positivo e una comunicazione chiara, convinto che il benessere sul lavoro sia fondamentale per offrire soluzioni efficaci. Il mio approccio vuole integrare obiettivi aziendali e responsabilità sociale, puntando all’impatto positivo sulla comunità.
 
-**Reason #1:** I wanted a portfolio that was simple, fast, accessible, and integrated with a git-powered cms. Existing templates didn't perfectly fit my needs, so I decided to build my own template.
+**Capacità:** 
+🤝 Networking 
+📊 Analisi 
+🗂️ Organizzazione 
+🗣️ Comunicazione 
+🤹‍♂️ Negoziazione
+📆 Pianificazione
+⚙️ Ottimizzazione 
+​​🚗 Patente B automunito
 
-**Reason #2:** I wanted to learn more about [Eleventy](https://www.11ty.dev/) and static site generators in general. Building Fernfolio was a good excuse to dive deeper on that topic.
+**Talenti:** 
+🔭 Visione 
+🚀 Leadership 
+❤️ Empatia 
+💡 Intuizione 
+🎨 Creatività 
+🔄 Adattabilità 
+🏗️ Intraprendenza 
+🔍 Curiosità 
 
-### How do I edit content?
-Once your site is deployed and configured, add `/admin` to the end of the url (not using localhost) and hit refresh. From there, you should be able to login and see see the content management dashboard. You should be able to change most content here (e.g. page text, images, logo, articles, projects, etc.).
+**Interessi:** 
+♿ Special Snorkeling
+💆 Cranio-sacrale
+🛡️ Privacy
+🤿 Apnea
+📺 eink
 
-### Further customizations
-If you want to take your customizations further, you will need to modify the project source code. Some customizations, like changing theme colors and fonts, are straightforward (those can be modified in the `variables.scss` file). Other customizations will require more in-depth solutions.
+Grazie per l'interesse e rimaniamo in [contatto](contatti)!
 
-If you get stuck or just have a question, feel free to create a [Github issue](https://github.com/TylerMRoderick/fernfolio-11ty-template/issues) and I will try to point you in the right direction.
-
-Thanks for checking out Fernfolio 👋 - [Tyler M. Roderick](https://www.tylerroderick.com/)
-
-![Fern in Hand](/src/assets/img/fern-forest.jpeg "Fern in Hand")
+<!-- ![Fern in Hand](/src/assets/img/fern-forest.jpeg "Fern in Hand") -->
