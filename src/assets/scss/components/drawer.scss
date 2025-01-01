@@ -121,7 +121,24 @@
   }
 
 }
-svg#icon-sun {
+
+.site-header__item svg#icon-sun {
+  fill: var(--color-text);
+  
+  :root[data-theme="dark"] & {
+    fill: var(--color-title-dark) ;
+  }
+  
+  path {
+    fill: var(--color-text) ;
+  
+    :root[data-theme="dark"] & {
+      fill: var(--color-title-dark) ;
+    }
+  }
+}
+  
+.drawer__nav-item svg#icon-sun {
   fill: var(--color-secondary) !important;
   
   :root[data-theme="dark"] & {
