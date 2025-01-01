@@ -10,7 +10,10 @@ section: home
     <div class="hero__col">
       <h1 class="hero__title gradient-text">{{ home.title }}</h1>
       {% if home.body %}
-        <div class="hero__body">{{ home.body | markdown | safe }}</div>
+        <div class="hero__body">{{ home.body | markdown | safe }}
+          <a href="/contatti">Hai un progetto di cui parlare?</a>
+        </div>
+        
       {% endif %}
     </div>
     <div class="hero__col">
@@ -27,12 +30,13 @@ section: home
   {# Projects #}
   <div class="list-header">
     <h2 class="list-header__title">Esperienze</h2>
-    <a class="btn btn--outline btn--sm" href="/projects">Altre?</a>
+    <a class="btn btn--outline btn--sm" href="/esperienze">Altre?</a>
   </div>
   {% from "macros/projectlist.njk" import projectlist %}
   {{ projectlist(projects = collections.project | reverse) }}
 
   {# Articles #}
+  <!--
   <div class="list-header">
     <h2 class="list-header__title">Alcune riflessioni</h2>
     <a class="btn btn--outline btn--sm" href="/blog">Vai agli altri post</a>
@@ -43,4 +47,5 @@ section: home
     show_tags = false,
     limit = 3
   ) }}
+  -->
 </div>
