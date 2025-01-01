@@ -119,4 +119,29 @@
   :root[data-theme="dark"] &{
     border-bottom: 1px solid var(--color-border-dark);
   }
+
+}
+svg#icon-sun {
+  fill: var(--color-secondary) !important;
+  
+  :root[data-theme="dark"] & {
+    fill: var(--color-link-dark) !important;
+  }
+  
+  path {
+    fill: var(--color-secondary) !important;
+  
+    :root[data-theme="dark"] & {
+      fill: var(--color-link-dark) !important;
+    }
+  }
+}
+span.drawer__text-theme-switch, .switcher {
+  font-variant: small-caps; 
+  padding: 0 0 0.2em 0.5em;
+  color: var(--color-secondary);
+  
+  :root[data-theme="dark"] & {
+    color: var(--color-link-dark);
+  }
 }
