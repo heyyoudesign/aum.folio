@@ -14,28 +14,25 @@ tags:
   - handbook
 ---
 
-### Di cosa si tratta
-Insieme a un gruppo di persone facilitatrici esperte e specializzate nel Change management, offriamo servizi di consulenza organizzativa, facilitazione e formazione focalizzati sui processi trasformativi e il change management. 
+Insieme a un gruppo di facilitatrici e coach specializzate nel Change management, offriamo servizi di consulenza organizzativa, facilitazione e formazione focalizzati sui processi trasformativi. 
 
-### Il nostro approccio si distingue per:
-
-## Consulenza Organizzativa
+### Consulenza organizzativa
 - Supporto alle aziende nell'identificare le aree di miglioramento e sviluppare strategie di cambiamento
 - Analisi dei processi aziendali e proposta di soluzioni innovative
 
-## Facilitazione
+### Facilitazione
 - Gestione di workshop e sessioni collaborative per favorire il dialogo e la condivisione di idee
 - Utilizzo di tecniche di facilitazione per guidare i gruppi verso obiettivi comuni
 
-## Formazione per Processi Trasformativi
+### Formazione per processi trasformativi
 - Programmi formativi personalizzati per sviluppare le competenze necessarie al cambiamento
 - Focus sullo sviluppo di una mentalità aperta all'innovazione e al miglioramento continuo
 
-## Change Management
+### Change management
 - Supporto nell'implementazione di progetti di cambiamento organizzativo
 - Strategie per superare le resistenze e coinvolgere attivamente i dipendenti nel processo di trasformazione
 
-L'approccio di Barlumi mira a creare un ambiente aziendale più agile e adattabile, preparando le organizzazioni ad affrontare le sfide del mercato in continua evoluzione. Attraverso questi servizi integrati, Barlumi si propone come partner strategico per le aziende che intendono intraprendere percorsi di trasformazione e innovazione.
+Il nostro approccio mira a creare un ambiente più agile e adattabile, preparando le organizzazioni ad affrontare le sfide del mercato in continua evoluzione. Attraverso questi servizi integrati, ci proponiamo come partner strategico per le aziende che intendono intraprendere percorsi di trasformazione e innovazione.
 
 
-[Scrivetemi un messaggio](/contatti) per discutere le vostre esigenze e capire come possiamo aiutarvi.
+[Scrivetemi](/contatti) per raccontarmi la vostra attuale situazione e capire come avviare alcuni processi di cambiamento 🌱.

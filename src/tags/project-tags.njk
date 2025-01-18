@@ -5,9 +5,9 @@ pagination:
   alias: tag
 permalink: /project-tags/{{ tag }}/
 layout: base.njk
-renderData:
-  title: "Projects tagged “{{ tag }}”"
-  metaDescription: "All projects tagged with “{{ tag }}”"
+eleventyComputed:
+  title: "Projects tagged «{{ tag }}»"
+  metaDescription: "All projects tagged with «{{ tag }}»"
 ---
 <div class="page-container">
   {# Header #}

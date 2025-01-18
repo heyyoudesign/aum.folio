@@ -31,13 +31,17 @@ eleventyNavigation:
 
 ### Digital Marketing
 
-Allora probabilmente lavori in ambito **food & beverage**. In questo settore con [RichClicks](https://richclicks.it) abbiamo aumentato per alcuni nostri clienti, l’ecommerce revenue del +82% YoY, raggiunto il +22% in AOV e portato a 5.75 il ROAS (+111.1% YoY). Creando **strategie multicanale**, anche **in ambito B2B**, includendo strumenti avanzati di **automazione** e **intelligenza artificiale** per massimizzare i risultati.  
+Allora probabilmente lavori in ambito **food & beverage**. 
+
+Con [RichClicks](https://richclicks.it) per alcuni nostri clienti in questo settore, abbiamo aumentato l’ecommerce revenue del +82% YoY, raggiunto il +22% in AOV e portato a 5.75 il ROAS (+111.1% YoY). Creando **strategie multicanale**, anche **in ambito B2B**, includendo strumenti avanzati di **automazione** e **intelligenza artificiale** per massimizzare i risultati.  
   
 Sarebbe un vero piacere potervi raccontare di più sul nostro lavoro e condividere alcuni dei nostri [casi di successo](https://www.richclicks.it/casi-studio-food) con brand come Malastrana, Camoscio D’Oro, 33Fuel, Bontasana, e Prodotti Spiga.
 
 ### Accessibilità / Compliance
 
-Devi adeguare alla normativa i vostri canali digitali? Con [Yeah! Impresa Sociale](https://yeahimpresasociale.it/) offriamo una vasta gamma di servizi focalizzati sull'accessibilità e l'inclusione:
+Devi adeguare alla normativa i vostri canali digitali? 
+
+Con [Yeah! Impresa Sociale](https://yeahimpresasociale.it/) offriamo una vasta gamma di servizi focalizzati sull'accessibilità e l'inclusione:
 
 - Consulenza per rendere siti web, applicazioni e documenti accessibili
 - Formazione per aziende (ed enti pubblici) su tematiche di accessibilità digitale

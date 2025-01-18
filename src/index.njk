@@ -11,7 +11,9 @@ section: home
       <h1 class="hero__title gradient-text">{{ home.title }}</h1>
       {% if home.body %}
         <div class="hero__body">{{ home.body | markdown | safe }}
-          Hai un progetto? <a class="hero__link" href="/contatti">Parliamone!</a> 
+          Hai un progetto? <a class="hero__link" href="/contatti">Parliamone!</a>
+          <br>
+          Oppure ci siamo conosciuti <a class="hero__link" href="/sigep">alla SIGEP?</a> 
         </div>
         
       {% endif %}
