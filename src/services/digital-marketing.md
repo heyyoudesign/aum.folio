@@ -6,16 +6,19 @@ metaDescription: Sviluppo di strategie di crescita aziendale. Identificazione di
 date: 2025-01-17T00:00:00.000Z
 summary: Strategie digitali omnicanale per la crescita del business online
 tags:
-  - 👥
-  - 🤝
-  - 🔍
-  - 💡
-  - 🌱
-  - 📝
+  - ads
+  - seo
+  - shopify
+  - ai
+  - klaviyo
+  - lead gen
+  - innovazione
+eleventyNavigation:
+  key: Digital Marketing
+  parent: Servizi
 ---
 
-## RichClicks
-[Agenzia di Digital Marketing](https://richclicks.it) 
+[RichClicks - Agenzia di Digital Marketing](https://richclicks.it) 
 
 ### Di cosa si tratta:
 

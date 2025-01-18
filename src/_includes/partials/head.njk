@@ -4,7 +4,7 @@
   <title>{{ renderData.title or title or metadata.title }}</title>
   <meta name="description" content="{{ metaDescription or renderData.metaDescription or summary or metadata.description }}">
   <meta property="og:image" content="/assets/img/sunset-giallo.png">
-  <link rel="dns-prefetch" href="https://identity.netlify.com">
+  {# <link rel="dns-prefetch" href="https://identity.netlify.com"> #}
 
   {# Canonical URL #}
   {% if canonical %}
@@ -13,11 +13,11 @@
 
 
   {# Third-party scripts #}
-  <script async src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+  {# <script async src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script> #}
 
   {# Fonts #}
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  {# <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> #}
 
   {# CSS #}
   <link rel="stylesheet" href="/assets/css/main.css">

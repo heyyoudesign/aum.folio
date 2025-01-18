@@ -4,14 +4,14 @@ emoji: 🤹‍♂️
 link: 
 metaDescription: Gestione di progetti complessi per clienti diversificati. Ottimizzazione dei processi operativi interni. Sviluppo e mantenimento della cultura aziendale. Supervisione delle risorse umane e delle operazioni quotidiane.
 date: 2023-09-21T00:00:00.000Z
-summary: Organizzazione aziendale, facilitazione e change management
+summary: Organizzazione aziendale, facilitazione e change management.
 tags:
-  - 📊
-  - 🗂️
-  - 👥
-  - ⚙️
-  - 🌈
-  - 🤹‍♂️
+  - wellbeing
+  - formazione
+  - processi
+  - cultura
+  - ascolto
+  - handbook
 ---
 
 ### Di cosa si tratta

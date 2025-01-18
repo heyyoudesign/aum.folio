@@ -23,7 +23,7 @@ tags:
 
 ### Focus
 
-Il mio obiettivo è diventato sviluppare relazioni sostenibili con clienti e tutto il team. 
+Il mio obiettivo è diventato sviluppare relazioni autentiche con clienti e tutto il team. 
 
 Con un focus sulla creazione di ambienti sani e una comunicazione costruttiva, credo che lavorare con gioia sia essenziale per fornire servizi che funzionano: soprattutto nel digital marketing.
 

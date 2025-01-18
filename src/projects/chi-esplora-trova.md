@@ -12,6 +12,9 @@ tags:
   - 🔄
   - 🏋️‍♂️
   - 📚
+eleventyNavigation:
+  key: Chi esplora trova
+  parent: Esperienze
 ---
 
 ### Attitudine a crere reti

@@ -5,10 +5,10 @@
         {% if limitsrv === undefined or loop.index0 < limitsrv %}
         <div class="project-card" {% if service.url == url %} data-current="current item"{% endif %}>
           <h4>
-            <a class="project-card__title" href="{{ service.url | url }}">
-              {% if service.data.emoji %}
+             {% if service.data.emoji %}
                 <span class="project-card__emoji">{{ service.data.emoji }}</span>
               {% endif %}
+            <a class="project-card__title" href="{{ service.url | url }}">
               {% if service.data.title %}
                 {{ service.data.title }}
               {% else %}

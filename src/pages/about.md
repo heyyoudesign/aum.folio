@@ -20,7 +20,7 @@ Mi dedico a costruire relazioni solide e a facilitare team con empatia, mirando 
 🤹‍♂️ Negoziazione
 📆 Pianificazione
 ⚙️ Ottimizzazione 
-​​🚗 Patente B automunito
+<!-- ​​🚗 Patente B automunito -->
 
 **Talenti:** 
 🔭 Visione 
@@ -39,6 +39,6 @@ Mi dedico a costruire relazioni solide e a facilitare team con empatia, mirando 
 🤿 Apnea
 📺 eink
 
-Grazie per l'interesse e rimaniamo in [contatto](contatti)!
+Grazie per l'interesse, [rimaniamo in contatto](/contatti)!
 
 <!-- ![Fern in Hand](/src/assets/img/fern-forest.jpeg "Fern in Hand") -->

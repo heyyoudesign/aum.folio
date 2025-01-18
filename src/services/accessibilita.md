@@ -4,14 +4,14 @@ emoji: 🏗️
 link: https://yeahimpresasociale.it
 metaDescription: Yeah Impresa Sociale si occupa di accessibilità digitale e di progetti per l'inclusione di persone con disabilità, per un internet realmente più inclusivo
 date: 2025-01-18T00:00:00.000Z
-summary: Servizi per l'accessibilità e l'inclusione di persone con disabilità
+summary: Servizi per l'accessibilità digitale e l'inclusione di persone con disabilità
 tags:
-  - 🏗️
-  - 💡
-  - 🔧
-  - 🚀
-  - 🤝
-  - ⚖️
+  - inclusione
+  - compliance
+  - usabilità
+  - formazione
+  - disabilità
+  - innovazione
 ---
 
 ### Di cosa si tratta:
