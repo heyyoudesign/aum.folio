@@ -13,4 +13,4 @@ eleventyNavigation:
 
 Scrivimi del progetto a cui pensavi, grazie!
 
-ATTENZIONE: ogni form inviato passerà prima attraverso un filtro anti-spam (del provider di hosting Netlify), e se dovesse risultare in precedenza segnalato in qualche database, verrà mostrato un CAPTCHA in pagina.
+<!-- ATTENZIONE: ogni form inviato passerà prima attraverso un filtro anti-spam (del provider di hosting Netlify), e se dovesse risultare in precedenza segnalato in qualche database, verrà mostrato un CAPTCHA in pagina. -->

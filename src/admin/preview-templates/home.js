@@ -19,7 +19,7 @@ const Home = createClass({
             <div class="hero__col">
               <h1 class="hero__title gradient-text">${entry.getIn(['data', 'title'], null)}</h1>
               <div class="hero__body">${this.props.widgetFor('body')}</div>
-              <a href="/contatti">Hai un progetto di cui parlare?</a>
+              <a href="/contatti">Hai un progetto? Parliamone!</a>
             </div>
             <div class="hero__col">
               <img

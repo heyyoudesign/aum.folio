@@ -1,0 +1,39 @@
+{% macro servicelist(services, limitsrv) %}
+  <section>
+    <div class="project-grid">
+      {% for service in services %}
+        {% if limitsrv === undefined or loop.index0 < limitsrv %}
+        <div class="project-card" {% if service.url == url %} data-current="current item"{% endif %}>
+          <h4>
+            <a class="project-card__title" href="{{ service.url | url }}">
+              {% if service.data.emoji %}
+                <span class="project-card__emoji">{{ service.data.emoji }}</span>
+              {% endif %}
+              {% if service.data.title %}
+                {{ service.data.title }}
+              {% else %}
+                Senza titolo
+              {% endif %}
+            </a>
+          </h4>
+          {% if service.data.summary %}
+            <p>
+              {{ service.data.summary }}
+            </p>
+          {% endif %}
+          {% if service.data.tags %}
+            <p class="tag-list">
+              {% for tag in service.data.tags %}
+                {%- if tag != "service" -%}
+                  {% set tagUrl %}/service-tags/{{ tag }}/{% endset %}
+                <a class="project-card__tag tag" href="{{ tagUrl | url }}" rel="tag">{{ tag }}</a>
+                {%- endif -%}
+              {% endfor %}
+            </p>
+          {% endif %}
+        </div>
+        {% endif %}
+      {% endfor %}
+    </div>
+  </section>
+{% endmacro %}

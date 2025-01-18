@@ -1,0 +1,5 @@
+{
+  "layout": "service.njk",
+  "permalink": "servizi/{{ title | slug }}/index.html",
+  "tags": ["service"]
+}

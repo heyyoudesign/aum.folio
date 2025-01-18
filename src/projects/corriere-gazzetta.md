@@ -4,7 +4,7 @@ emoji: 🧑‍💻
 link: https://corriere.it
 metaDescription: All’interno del team dei grafici di redazione online prima per entrambi i quotidiani poi solo per Corriere della Sera, mi sono occupato della gestione delle richieste quotidiane di supporto alla pubblicazione da parte dei redattori, e di progetti custom quali speciali editoriali che necessitavano una cura dedicata.
 date: 2016-10-15T00:00:00.000Z
-summary: Corriere.it - Gazzetta.it | Milano | 2010 - 2016
+summary: Corriere / Gazzetta | Milano | 2010 - 2016
 tags:
   - 🧑‍💻
 ---

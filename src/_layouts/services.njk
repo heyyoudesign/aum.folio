@@ -1,0 +1,24 @@
+---
+layout: base.njk
+section: servizi
+---
+<div class="page-container">
+  <h1>{{title}}</h1>
+
+  {% if subtitle %}
+    <p>{{ subtitle }}</p>
+  {% endif %}
+
+  <hr/>
+
+  {{ layoutContent | safe }}
+
+  {# Projects #}
+  {% from "macros/servicelist.njk" import servicelist %}
+  {{ servicelist(services = collections.service | reverse) }}
+
+  <div class="hero__body">Se qualcosa ti interessa potremmo 
+    <a class="hero__link" href="/contatti">programmare una call :)</a>
+  </div>
+
+</div>

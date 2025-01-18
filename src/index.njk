@@ -11,7 +11,7 @@ section: home
       <h1 class="hero__title gradient-text">{{ home.title }}</h1>
       {% if home.body %}
         <div class="hero__body">{{ home.body | markdown | safe }}
-          <a class="hero__link" href="/contatti">Hai un progetto di cui parlare?</a>
+          <a class="hero__link" href="/contatti">Hai un progetto? Parliamone!</a>
         </div>
         
       {% endif %}
@@ -27,7 +27,20 @@ section: home
     </div>
   </div>
 
+  {# Services #}
+  <div class="list-header">
+    <h2 class="list-header__title">Cosa possiamo fare insieme:</h2>
+    <a class="btn btn--outline btn--sm" href="/servizi">Servizi</a>
+  </div>
+  {% from "macros/servicelist.njk" import servicelist %}
+    {{ servicelist(
+    services = collections.service | reverse, 
+    limitsrv = 4
+    ) }}
+    
+    
   {# Projects #}
+  <!--
   <div class="list-header">
     <h2 class="list-header__title">Esperienze</h2>
     <a class="btn btn--outline btn--sm" href="/esperienze">Altre?</a>
@@ -37,7 +50,7 @@ section: home
     projects = collections.project | reverse, 
     limitprj = 4
     ) }}
-    
+  -->
     
 
   {# Articles #}
@@ -53,4 +66,9 @@ section: home
     limit = 1
   ) }}
   -->
+
+  <div class="hero__body">Ci siamo conosciuti in fiera?
+    <a class="hero__link" href="/contatti">Rimaniamo in contatto!</a>
+  </div>
+
 </div>

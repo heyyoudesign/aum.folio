@@ -1,0 +1,27 @@
+---
+pagination:
+  data: collections
+  size: 1
+  alias: tag
+permalink: /service-tags/{{ tag }}/
+layout: base.njk
+renderData:
+  title: "Servizi taggati come “{{ tag }}”"
+  metaDescription: "Tutti i servizi taggati come “{{ tag }}”"
+---
+<div class="page-container">
+  {# Header #}
+  <div class="tag-list tag-list--no-wrap">
+    <h4 class="tag-list__title">Servizi taggati come: "{{ tag | capitalize }}"</h4>
+    <a class="btn btn--sm btn--danger" href="/servizi">Togli questo tag</a>
+  </div>
+
+  {# Projects #}
+  {% from "macros/servicelist.njk" import servicelist %}
+  {{ servicelist(services = collections[tag] | reverse) }}
+
+  {# Footer #}
+  <nav>
+    <a href="{{ '/servizi/' | url }}">← Vai agli altri servizi</a>
+  </nav>
+</div>

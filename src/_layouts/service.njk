@@ -1,6 +1,6 @@
 ---
 layout: base.njk
-section: esperienza
+section: servizio
 ---
 <div class="page-container">
   <h1>
@@ -8,14 +8,9 @@ section: esperienza
       <span class="project-card__emoji">{{ emoji }}</span>
     {% endif %}
     {{title}}</h1>
-
-    {% if subtitle %}
-      <p>{{ subtitle }}</p>
-    {% endif %}
-    
   <hr/>
   {{ layoutContent | safe }}
   <nav>
-    <a href="{{ '/esperienze/' | url }}">← Vai a tutte le esperienze</a>
+    <a href="{{ '/servizi/' | url }}">← Torna a tutti i servizi</a>
   </nav>
 </div>
