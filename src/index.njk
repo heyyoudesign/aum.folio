@@ -27,18 +27,24 @@ section: home
     </div>
   </div>
 
+</div>
+<div class="page-container">
+  
   {# Services #}
   <div class="list-header">
     <h2 class="list-header__title">Cosa possiamo fare insieme:</h2>
     <a class="btn btn--outline btn--sm" href="/servizi">Servizi</a>
   </div>
+
+
   {% from "macros/servicelist.njk" import servicelist %}
     {{ servicelist(
     services = collections.service | reverse, 
     limitsrv = 4
     ) }}
-    
-    
+</div>    
+<div class="home-page">
+
   {# Projects #}
   <!--
   <div class="list-header">
