@@ -1,7 +1,7 @@
 <p>
 <form class="contact-form" name="contact" method="POST" data-netlify="true" action="/form-inviato-grazie">
   <input type="hidden" name="subject" value="Nuovo messaggio su %{formName} - (%{submissionId})"" />
-  <label for="name">nome:</label>
+  <p><label for="name">nome:</label>
   <input
     type="text"
     name="name"
@@ -10,8 +10,8 @@
     placeholder="nome"
     title="nome e cognome"
     required
-  >
-  <label for="email">email:</label>
+  ></p>
+  <p><label for="email">email:</label>
   <input
     type="email"
     name="email"
@@ -21,25 +21,26 @@
     title="Sembra che il dominio non sia valido (intendo la parte dopo la @)."
     pattern="^([^\x00-\x20\x22\x28\x29\x2c\x2e\x3a-\x3c\x3e\x40\x5b-\x5d\x7f-\xff]+|\x22([^\x0d\x22\x5c\x80-\xff]|\x5c[\x00-\x7f])*\x22)(\x2e([^\x00-\x20\x22\x28\x29\x2c\x2e\x3a-\x3c\x3e\x40\x5b-\x5d\x7f-\xff]+|\x22([^\x0d\x22\x5c\x80-\xff]|\x5c[\x00-\x7f])*\x22))*\x40([^\x00-\x20\x22\x28\x29\x2c\x2e\x3a-\x3c\x3e\x40\x5b-\x5d\x7f-\xff]+|\x5b([^\x0d\x5b-\x5d\x80-\xff]|\x5c[\x00-\x7f])*\x5d)(\x2e([^\x00-\x20\x22\x28\x29\x2c\x2e\x3a-\x3c\x3e\x40\x5b-\x5d\x7f-\xff]+|\x5b([^\x0d\x5b-\x5d\x80-\xff]|\x5c[\x00-\x7f])*\x5d))*(\.\w{2,})+$"
     required
-  >
-  <label for="phone">telefono:</label>
+  ></p>
+  <p><label for="phone">telefono:</label>
   <input
     type="phone"
     name="phone"
     id="phone"
     autocomplete="phone"
     placeholder="numero di telefono"
-  >
-  <label>argomento:</label>
+  ></p>
+  <p><label>argomento:</label>
   <select name="argomento[]" multiple required placeholder="per cosa mi contatti?">
       <option value="accessibilita">accessibilità</option>
       <option value="digital marketing">digital marketing</option>
       <option value="business development">business development</option>
       <option value="facilitazione">facilitazione</option>
       <option value="altro">altro..</option>
-    </select>
-  <label for="message">messaggio:</label>
+    </select></p>
+  <p><label for="message">messaggio:</label>
   <textarea name="message" id="message" placeholder="scrivi qui il tuo messaggio, grazie!" rows="7" required></textarea>
-  <button class="contact-form__submit btn" type="submit" name="submit">invia</button>
+  </p>
+  <p><button class="contact-form__submit btn" type="submit" name="submit">invia</button></p>
 </form>
 </p>
