@@ -1,6 +1,6 @@
 ---
 title: SIGEP
-subtitle: Ci siamo conosciuti in fiera?
+subtitle: Ci siamo conosciuti in fiera? Allora probabilmente ti interessano i seguenti servizi. 
 metaDescription: Casi di successo in ambito food & beverage.
 date: 2025-01-19T00:00:00.000Z
 permalink: /sigep/index.html
@@ -31,8 +31,6 @@ eleventyNavigation:
 
 ### Digital Marketing
 
-Allora probabilmente lavori in ambito **food & beverage**. 
-
 Con [RichClicks](https://richclicks.it) per alcuni nostri clienti in questo settore, abbiamo aumentato l’ecommerce revenue del +82% YoY, raggiunto il +22% in AOV e portato a 5.75 il ROAS (+111.1% YoY). Creando **strategie multicanale**, anche **in ambito B2B**, includendo strumenti avanzati di **automazione** e **intelligenza artificiale** per massimizzare i risultati.  
   
 Sarebbe un vero piacere potervi raccontare di più sul nostro lavoro e condividere alcuni dei nostri [casi di successo](https://www.richclicks.it/casi-studio-food) con brand come Malastrana, Camoscio D’Oro, 33Fuel, Bontasana, e Prodotti Spiga.
@@ -47,6 +45,6 @@ Con [Yeah! Impresa Sociale](https://yeahimpresasociale.it/) offriamo una vasta g
 - Formazione per aziende (ed enti pubblici) su tematiche di accessibilità digitale
 - Consulenza individuale su tematiche quotidiane legate alla disabilità 
 
-☎️ Cosa ne dici, [organizziamo una chiamata?](/contatti)
+☎️ Magari l'abbiamo già programmata, se così non fosse [fissiamo una call](/contatti) :)
 
 <!-- ![Fern in Hand](/src/assets/img/fern-forest.jpeg "Fern in Hand") -->

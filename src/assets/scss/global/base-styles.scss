@@ -134,6 +134,16 @@ hr {
 a {
   text-decoration: none;
   color: var(--color-secondary);
+  
+  &:not(.header-anchor):not(header a):not(h1 a):not(h2 a):not(h3 a):not(h4 a):not(h5 a):not(h6 a) {
+    border-bottom: 2px solid var(--color-secondary);
+    transition: border-bottom 0.3s ease;
+  
+    &:hover {
+      border-bottom: 3px solid var(--color-secondary);
+      
+    }
+  }
 
   :root[data-theme="dark"] & {
     color: var(--color-link-dark);
